@@ -12,7 +12,7 @@ authors = [
 ]
 dependencies = [
     "datasets",
-    "langchain==0.0.294",
+    "langchain==0.2.5",
     "text-generation",
 ]
 
